@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "linux.do",
+        "bulianglin.com"
+      ],
+      "domain_keyword": "linux.do" 
+    },
+    {
+      "domain_suffix": [
+        "bulianglin.com"
+      ],
+      "domain_keyword": "bulianglin.com"
+    }
+  ]
+}
